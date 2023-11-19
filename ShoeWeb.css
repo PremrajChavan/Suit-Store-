@@ -1,0 +1,108 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+.Front
+{
+    height: 1000px;
+    width: 100%;
+    background-color: rgba(3,3,3,255)
+    ;
+    text-align: end;
+    
+}
+.Front2
+{ padding-top: 200px;
+    width: 30%;
+    height: 100%;
+    background-color:rgba(3,3,3,255)
+    ;
+    box-sizing: border-box;
+}
+.Coll1
+{
+    width: 30%;
+    height: 100%;
+    background-color:rgba(3,3,3,255)
+
+    ;
+    box-sizing: border-box;
+}
+.Coll2
+{
+    width: 30%;
+    height: 100%;
+    
+    background-color:rgba(3,3,3,255)
+    ;
+    box-sizing: border-box;
+}
+.ColHead
+{
+    padding-top: 50px;
+    font-size: 80px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    box-sizing: border-box;
+}
+.V
+{
+    text-decoration: none;
+    color: aliceblue;
+}
+.swim
+{
+    font-weight: 500;
+    font-size: 28px;
+}
+.Cover
+{
+    padding-left: 100px;
+    padding-top: 200px;
+    margin-top: 100px;
+
+}.CoverAl
+{
+    color: rgba(49,49,49,255)
+    ;
+    text-align: left;
+    margin-top: 350px;
+    
+    
+
+}
+.Alpha
+{
+    text-decoration: none;
+    color: rgb(93, 91, 88);
+}
+/*  Header */
+.bg-diamond
+{
+    background-color:rgba(49,49,49,255)
+
+    ;
+}
+
+.price
+{
+  font-size:12px;
+}
+.type
+{
+
+  font-size:13px;
+}
+.acd
+{
+              color: orange;
+
+}
+.swim2
+{
+    color:rgb(93, 91, 88) ;
+    font-weight: 500;
+    font-size: 28px;
+    text-decoration: none;
+}
